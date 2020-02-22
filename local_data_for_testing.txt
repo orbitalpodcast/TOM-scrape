@@ -1,0 +1,1053 @@
+<!DOCTYPE html>
+
+<html class="touch-styles" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<!-- This is Squarespace. --><!-- david-fourman-m53x -->
+<base href=""/>
+<meta charset="utf-8">
+<title> The Orbital Mechanics Podcast</title>
+<link href="https://images.squarespace-cdn.com/content/v1/5439a3d0e4b0dedc218f23b9/1497894630649-J6HWTEQRCC7TVYB82EQA/ke17ZwdGBToddI8pDm48kGfiFqkITS6axXxhYYUCnlRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxQ1ibo-zdhORxWnJtmNCajDe36aQmu-4Z4SFOss0oowgxUaachD66r8Ra2gwuBSqM/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://theorbitalmechanics.com/show-notes" rel="canonical"/>
+<meta content="The Orbital Mechanics Podcast" property="og:site_name">
+<meta content=" The Orbital Mechanics Podcast" property="og:title"/>
+<meta content="https://theorbitalmechanics.com/show-notes" property="og:url"/>
+<meta content="website" property="og:type"/>
+<meta content="http://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/t/59480e9be4fcb54c2107a9cb/1497894562636/Flat+Logo+1171.png?format=1500w" property="og:image"/>
+<meta content="1171" property="og:image:width"/>
+<meta content="1171" property="og:image:height"/>
+<meta content=" The Orbital Mechanics Podcast" itemprop="name"/>
+<meta content="https://theorbitalmechanics.com/show-notes" itemprop="url"/>
+<meta content="http://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/t/59480e9be4fcb54c2107a9cb/1497894562636/Flat+Logo+1171.png?format=1500w" itemprop="thumbnailUrl"/>
+<link href="http://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/t/59480e9be4fcb54c2107a9cb/1497894562636/Flat+Logo+1171.png?format=1500w" rel="image_src"/>
+<meta content="http://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/t/59480e9be4fcb54c2107a9cb/1497894562636/Flat+Logo+1171.png?format=1500w" itemprop="image"/>
+<meta content=" The Orbital Mechanics Podcast" name="twitter:title"/>
+<meta content="http://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/t/59480e9be4fcb54c2107a9cb/1497894562636/Flat+Logo+1171.png?format=1500w" name="twitter:image"/>
+<meta content="https://theorbitalmechanics.com/show-notes" name="twitter:url"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="" name="description"/>
+<script src="//use.typekit.net/ik/nqB-1eBK8sW1dYOCsrQ2HBClioWhbVzBTP1Dwt307RMfezI2fFHN4UJLFRbh52jhWD9XwD8ywhb3ZQsKwes8ZewkwQycwRFK5s7CMPG0ZeBh-AblZcNuScuydKulFQFtO1FUiABkZWF3jAF8OcFzdPUqjWZTZfucdamkdAB0OAXuwa60SaBujW48Sagyjh90jhNlOeUzjhBC-eNDifUX-emzSc4TieBCdAmR-eB0-AFDOcFzdPUaiaS0ZeBh-AblZcNuScuydKulFQFtO1FUiABkZWF3jAF8OcFzdPUaiaS0iey8da4K-Wsydeu8jhyydc8RSkoRdhXK2YgkdayTdAIldcNhjPJPjAszjc9lZhBkjAuzdcblSY4zH6qJ73IbMg6gJMJ7fbKCMsMMeMC6MKG4f5J7IMMjMkMfH6qJtkGbMg6FJMJ7fbKzMsMMeMb6MKG4fOMgIMMj2KMfH6GJCwbgIMMjgPMfH6GJCSbgIMMj2kMfH6qJnbIbMg6eJMJ7fbK0MsMMegM6MKG4fJCgIMMjgkMfH6qJRMIbMg6sJMJ7fbKTMsMMeM66MKG4fHGgIMMjIKMfH6qJKbIbMg64JMJ7fbKHMsMMegw6MKG4fVwXIMIjgfMfH6qJvRbbMs65JMJ7fbRXFgMgeMj6MKG4fV9XIMIjIfMfH6qJv2bbMs6YJMJ7fbRUFgMgegI6MTMgzi_Ez39.js" type="text/javascript"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-f45c7317e0731f9a0d4e7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-f45c7317e0731f9a0d4e7-min.en-US.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-c5ab4cdbf5bc58946471c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-c5ab4cdbf5bc58946471c-min.en-US.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-d5d1d165eb43a2fed99901e0e7b185a3-min.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<link href="//assets.squarespace.com/universal/styles-compressed/commerce-d5d1d165eb43a2fed99901e0e7b185a3-min.css" rel="stylesheet" type="text/css"/><script crossorigin="anonymous" defer="" src="//assets.squarespace.com/universal/scripts-compressed/performance-98a6be3c7d135258b42a6-min.en-US.js"></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","rollups":{"squarespace-announcement-bar":{"css":"//assets.squarespace.com/universal/styles-compressed/announcement-bar-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-48e2f74ac4b3bcdf2c81c-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-52bdd87acccf92a19703e60e09c654bd-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-b4b1186e9a37e9c7fce77-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-342036262b204974aa269-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-a0cc7f57176bc63d87bc9f4149fada5a-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-ce3df506bf0689760f5a6-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-9935a41d63cf08ca108505d288c1712e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-20012856ae6600a2bcaa7-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-1637eb4ee93bed59528921026e024bf4-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-ed118d04ebd7eb7d6f645-min.en-US.js"},"squarespace-commerce-cart":{"js":"//assets.squarespace.com/universal/scripts-compressed/commerce-cart-6153f5c5c0746781312cf-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-afeb96ba160fb642a2d98c892a956065-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-27f1008c544c0da0544a0-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-a0cc7f57176bc63d87bc9f4149fada5a-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-a5429bd47be36ea98af1d-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-b96b2c35971262cca8b59-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-f64e0249b577bd29ab8588cd7d02f749-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-becd6c952fc9746b8e880-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-e23ee315df466f1dba9ec-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-5a660e03e667b16c7a076-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-4725f00d98ee2610ca950-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-0dff2958e7d1b369431f9e724190dc7d-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-1c24b49254b8356513a4a-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-5ecfaf9aeb530f7e2c5ac043ddf653c6-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-c0f0ad43f4d53295579cf-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-828c2fbae302bd3e4fe16-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-72b0ab7796582588032aa6472e2e2f14-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-35101a00e9b514fc4c4a9-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-207da8872118254c0a795bf9b187c205-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-6306a66727741a46eea20-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-489fc61695defbde81b67-min.en-US.js"},"squarespace-share-buttons":{"js":"//assets.squarespace.com/universal/scripts-compressed/share-buttons-3cfd2c452cad711b0b920-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-9ef41bf7ba753d65ec1acf18e093b88a-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-9c531dfb113ab68e593bd-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-bf7788a87c794b73afd9d5c49f72f4f3-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-fbcf678e1f23c289c2dfc-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-bf55213cb7acea6972f0f-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-68df56a8135961401cbd590171d6b04a-min.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-2d969f2b9953c80a9494d-min.en-US.js"}},"pageType":1,"website":{"id":"5439a3d0e4b0dedc218f23b9","identifier":"david-fourman-m53x","websiteType":1,"contentModifiedOn":1581281093770,"cloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/New_York","machineTimeZoneOffset":-18000000,"timeZoneOffset":-18000000,"timeZoneAbbr":"EST","siteTitle":"The Orbital Mechanics Podcast","fullSiteTitle":" The Orbital Mechanics Podcast","siteTagLine":"Every other week we cover the latest spaceflight news, discuss past, current and future exploration efforts, and take a look at upcoming events. Tune in to hear about how humans get to space, how they stay in space and how unmanned craft reach farther and farther into the universe around us.","siteDescription":"<p>Every other week we cover the latest spaceflight news, discuss past, current and future exploration efforts, and take a look at upcoming events. Tune in to hear about how humans get to space, how they stay in space and how unmanned craft reach farther and farther into the universe around us.</p>","location":{"mapZoom":12.0,"mapLat":40.7207559,"mapLng":-74.0007613,"addressLine1":"","addressLine2":"","addressCountry":""},"logoImageId":"54519794e4b04057136ab16a","socialLogoImageId":"59480e9be4fcb54c2107a9cb","shareButtonOptions":{"8":true,"6":true,"1":true},"logoImageUrl":"//static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/t/54519794e4b04057136ab16a/1581281093770/","socialLogoImageUrl":"//static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/t/59480e9be4fcb54c2107a9cb/1581281093770/","authenticUrl":"https://theorbitalmechanics.com","internalUrl":"https://david-fourman-m53x.squarespace.com","baseUrl":"https://theorbitalmechanics.com","primaryDomain":"theorbitalmechanics.com","sslSetting":3,"isHstsEnabled":false,"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"bc0c7c48","showOwnerLogin":false},"websiteSettings":{"id":"5439a3d0e4b0dedc218f23ba","websiteId":"5439a3d0e4b0dedc218f23b9","type":"Non-Profit","subjects":[],"country":"US","state":"NC","simpleLikingEnabled":true,"mobileInfoBarSettings":{"style":1,"isContactEmailEnabled":true,"isContactPhoneNumberEnabled":true,"isLocationEnabled":true,"isBusinessHoursEnabled":true},"announcementBarSettings":{"style":2,"text":"<p>Click here to get show notes, links and photos delivered by email.</p>","clickthroughUrl":{"url":"http://eepurl.com/dO4H49","newWindow":false}},"commentLikesAllowed":true,"commentAnonAllowed":false,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"contactPhoneNumber":"","businessHours":{"monday":{"text":"","ranges":[{}]},"tuesday":{"text":"","ranges":[{}]},"wednesday":{"text":"","ranges":[{}]},"thursday":{"text":"","ranges":[{}]},"friday":{"text":"","ranges":[{}]},"saturday":{"text":"","ranges":[{}]},"sunday":{"text":"","ranges":[{}]}},"contactEmail":"info@theorbitalmechanics.com","storeSettings":{"returnPolicy":"<p>Until we start selling something over $10, all sales are final once the product ships. Oh, yeah, shipping times will vary, but I'll do my best to get orders out within a few days.</p>","termsOfService":"","privacyPolicy":"","orderRefundedSubjectFormat":"%s: Order #%o Refunded","orderRefundedTitleFormat":"Order Refunded: #%o","orderRefundedMessage":"Your order from the TOM swag store has been refunded for a total of {nativeCurrencySymbol}{order.refundTotalCents|money-format}.","expressCheckout":true,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":false,"isBillingPhoneRequired":false,"currenciesSupported":["USD","AUD","CAD","CHF","EUR","GBP"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"orderConfirmationInjectCode":"","showCustomCheckoutForm":false,"enableMailingListOptInByDefault":false,"contactLocation":{"addressLine1":"","addressLine2":"","addressCountry":""},"businessName":"The Orbital Mechanics Podcast","sameAsRetailLocation":false,"businessId":"","merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false},"isLive":true,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"trialAssistantEnabled":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled","size":"small","shape":"rect","color":"white"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":""},"websiteCloneable":false,"collection":{"title":"Episodes","id":"5443f8fce4b0566007c13332","fullUrl":"/show-notes","type":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","banner-slideshow-controls":"Arrows","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Grid","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"280px","gridSpacing":"10px","logoContainerWidth":"500px","product-gallery-auto-crop":"false","product-image-auto-crop":"true","siteTitleContainerWidth":"220px","tweak-v1-related-products-title-spacing":"50px"},"templateId":"52a74dafe4b073a80cd253c5","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","betaFeatureFlags":["ORDERS-SERVICE-check-digital-good-access-with-service","ORDERS-SERVICE-reset-digital-goods-access-with-service","ORDER_SERVICE-submit-giftcard-order-through-service","ORDER_SERVICE-submit-order-with-gift-card-payments-through-service","dg_downloads_from_fastly","generic_iframe_loader_for_campaigns","donations_customer_accounts","product-retriever-v2-enabled","domain_registration_via_registrar_service","domain_locking_via_registrar_service","domain_deletion_via_registrar_service","domain_info_via_registrar_service","content_item_settings","seven_one_image_overlay_opacity","commerce_restock_notifications","commerce_bulk_manager","newsletter_block_captcha","new_billing_system","gallery_settings_71","commerce_onboarding_wizard","commerce_onboarding_wizard_phase_two"],"yuiEliminationExperimentList":[{"name":"statsMigrationJobWidget-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"ContributionConfirmed-enabled","experimentType":"AB_TEST","variant":"false","containsError":false,"status":"ACTIVE"},{"name":"TextPusher-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"MenuItemWithProgress-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"billingNewsletters-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"imageProcJobWidget-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"QuantityChangePreview-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"CompositeModel-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"HasPusherMixin-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"INACTIVE"},{"name":"ProviderList-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"MediaTracker-enabled","experimentType":"AB_TEST","variant":"false","containsError":false,"status":"ACTIVE"},{"name":"pushJobWidget-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"internal-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"BillingPanel-enabled","experimentType":"AB_TEST","variant":"false","containsError":false,"status":"ACTIVE"},{"name":"PopupOverlayEditor-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"},{"name":"CoverPagePicker-enabled","experimentType":"AB_TEST","variant":"true","containsError":false,"status":"ACTIVE"}],"impersonatedSession":false,"tzData":{"zones":[[-300,"US","E%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}}};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link href="http://feeds.feedburner.com/orbitalpodcast?fmt=xml" rel="alternate" title="RSS Feed" type="application/rss+xml"/>
+<script type="application/ld+json">{"url":"https://theorbitalmechanics.com","name":"The Orbital Mechanics Podcast","description":"<p>Every other week we cover the latest spaceflight news, discuss past, current and future exploration efforts, and take a look at upcoming events. Tune in to hear about how humans get to space, how they stay in space and how unmanned craft reach farther and farther into the universe around us.</p>","image":"//static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/t/54519794e4b04057136ab16a/1581281093770/","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"The Orbital Mechanics Podcast","address":"","email":"info@theorbitalmechanics.com","telephone":"","sameAs":[],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"","image":"https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/t/54519794e4b04057136ab16a/1581281093770/","name":"The Orbital Mechanics Podcast","openingHours":", , , , , , ","@context":"http://schema.org","@type":"LocalBusiness"}</script><!--[if gte IE 9]> <link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5439a3d0e4b0dedc218f23b9/13/52a74dafe4b073a80cd253c5/5443f7c9e4b09c45ad2709db/1033-05142015/1552006401744/site.css?&filterFeatures=false&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5439a3d0e4b0dedc218f23b9/13/52a74dafe4b073a80cd253c5/5443f7c9e4b09c45ad2709db/1033-05142015/1552006401744/site.css?&filterFeatures=false&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5439a3d0e4b0dedc218f23b9/13/52a74dafe4b073a80cd253c5/5443f7c9e4b09c45ad2709db/1033-05142015/1552006401744/site.css?&filterFeatures=false&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5439a3d0e4b0dedc218f23b9/13/52a74dafe4b073a80cd253c5/5443f7c9e4b09c45ad2709db/1033-05142015/1552006401744/site.css?&filterFeatures=false&part=4"/><![endif]-->
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5439a3d0e4b0dedc218f23b9/13/52a74dafe4b073a80cd253c5/5443f7c9e4b09c45ad2709db/1033-05142015/1552006401744/site.css?&filterFeatures=false&noMedia=true&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5439a3d0e4b0dedc218f23b9/13/52a74dafe4b073a80cd253c5/5443f7c9e4b09c45ad2709db/1033-05142015/1552006401744/site.css?&filterFeatures=false&noMedia=true&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5439a3d0e4b0dedc218f23b9/13/52a74dafe4b073a80cd253c5/5443f7c9e4b09c45ad2709db/1033-05142015/1552006401744/site.css?&filterFeatures=false&noMedia=true&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/5439a3d0e4b0dedc218f23b9/13/52a74dafe4b073a80cd253c5/5443f7c9e4b09c45ad2709db/1033-05142015/1552006401744/site.css?&filterFeatures=false&noMedia=true&part=4"/><![endif]-->
+<!--[if !IE]> --><link href="//static1.squarespace.com/static/sitecss/5439a3d0e4b0dedc218f23b9/13/52a74dafe4b073a80cd253c5/5443f7c9e4b09c45ad2709db/1033-05142015/1552006401744/site.css?&amp;filterFeatures=false" rel="stylesheet" type="text/css"/><!-- <![endif]-->
+<meta content="p1L1Q1MVBAEkyBSvhr_egD5Jlkfl23sX58seiuTYfcE" name="google-site-verification"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-61734213-1', 'auto');ga('send', 'pageview');</script><!-- End of Squarespace Headers -->
+<script>/* Must be below squarespace-headers */(function(){var e='ontouchstart'in window||navigator.msMaxTouchPoints;var t=document.documentElement;if(!e&&t){t.className=t.className.replace(/touch-styles/,'')}})()
+    </script>
+</meta></meta></head>
+<body class="transparent-header enable-nav-button nav-button-style-outline nav-button-corner-style-pill banner-button-style-solid banner-button-corner-style-pill banner-slideshow-controls-arrows meta-priority-date hide-entry-author hide-list-entry-footer hide-blog-sidebar center-navigation--info event-show-past-events event-thumbnails event-thumbnail-size-32-standard event-date-label event-list-show-cats event-list-date event-list-time event-list-address event-icalgcal-links event-excerpts gallery-design-grid aspect-ratio-auto lightbox-style-light gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-light hide-opentable-icons opentable-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-solid button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-5443f8fce4b0566007c13332 collection-type-blog collection-layout-default view-list mobile-style-available has-banner-image general-page" id="collection-5443f8fce4b0566007c13332">
+<a class="body-overlay" href="#"></a>
+<div class="sqs-announcement-bar-dropzone"></div>
+<div id="sidecarNav">
+<div class="nav-wrapper" data-content-field="navigation-mobileNav" id="mobileNavWrapper">
+<nav id="mobileNavigation">
+<div class="collection">
+<a href="/store">
+                Store
+              </a>
+</div>
+<div class="collection">
+<a href="/support">
+                Support
+              </a>
+</div>
+<div class="collection">
+<a href="/subscribe">
+                Subscribe
+              </a>
+</div>
+<div class="collection">
+<a href="/about">
+                About and Contact
+              </a>
+</div>
+<div class="collection active">
+<a href="/show-notes">
+                Episodes
+              </a>
+</div>
+</nav>
+</div>
+</div>
+<div class="clearfix" id="siteWrapper">
+<div class="sqs-cart-dropzone"></div>
+<header class="show-on-scroll" data-offset-behavior="bottom" data-offset-el=".index-section" id="header" role="banner">
+<div class="header-inner">
+<div class="wrapper" data-content-field="site-title" id="logoWrapper">
+<h1 id="logoImage"><a href="/"><img alt="The Orbital Mechanics Podcast" src="//static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/t/54519794e4b04057136ab16a/1581281093770/?format=1500w"/></a></h1>
+</div><!--
+--><div class="mobile-nav-toggle"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></div><div class="mobile-nav-toggle fixed-nav-toggle"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></div><!--
+--><div id="headerNav">
+<div class="nav-wrapper" data-content-field="navigation-mainNav" id="mainNavWrapper">
+<nav data-content-field="navigation-mainNav" id="mainNavigation">
+<div class="collection">
+<a href="/store">
+                Store
+              </a>
+</div>
+<div class="collection">
+<a href="/support">
+                Support
+              </a>
+</div>
+<div class="collection">
+<a href="/subscribe">
+                Subscribe
+              </a>
+</div>
+<div class="collection">
+<a href="/about">
+                About and Contact
+              </a>
+</div>
+<div class="collection active">
+<a href="/show-notes">
+                Episodes
+              </a>
+</div>
+</nav>
+</div>
+<!-- style below blocks out the mobile nav toggle only when nav is loaded -->
+<style>.mobile-nav-toggle-label { display: inline-block !important; }</style>
+</div>
+</div>
+</header>
+<div class="banner-thumbnail-wrapper" data-content-field="main-image">
+<div class="color-overlay"></div>
+<figure class="loading content-fill" id="thumbnail">
+<div class="sqs-video-background content-fill" data-config-filter="" data-config-filter-strength="" data-config-playback-speed="2" data-config-url="https://www.youtube.com/watch?v=8VO4DDM7_TY">
+<img alt="CY7jojvW8AAunqw.jpg" class="custom-fallback-image" data-image="https://images.squarespace-cdn.com/content/v1/5439a3d0e4b0dedc218f23b9/1470445374038-GTKZBYU6CVGKV9NTM4SF/ke17ZwdGBToddI8pDm48kCpwvy7-7xxMu6UGowdnYD4UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcSXG297-3pOOglB-IUz_RVRBawG9Jzv7zXac1dVC9BhRKBGBcoap9ctyRPqirBwmE/CY7jojvW8AAunqw.jpg" data-image-dimensions="1023x682" data-image-focal-point="0.5,0.5" data-load="false" data-src="https://images.squarespace-cdn.com/content/v1/5439a3d0e4b0dedc218f23b9/1470445374038-GTKZBYU6CVGKV9NTM4SF/ke17ZwdGBToddI8pDm48kCpwvy7-7xxMu6UGowdnYD4UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcSXG297-3pOOglB-IUz_RVRBawG9Jzv7zXac1dVC9BhRKBGBcoap9ctyRPqirBwmE/CY7jojvW8AAunqw.jpg"/>
+<div id="player"></div>
+</div>
+</figure>
+</div>
+<main id="page" role="main">
+<!--
+--><!--
+--><div class="main-content" data-collection-id="5443f8fce4b0566007c13332" data-content-field="main-content" data-edit-main-image="" id="content">
+<div class="blog-list">
+<article class="entry h-entry hentry author-ben-etherington post-type-text article-index-1" data-item-id="59c9c36bd55b41529f977f20" id="article-59c9c36bd55b41529f977f20">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-09-26" pubdate=""><a class="entry-dateline-link" href="/show-notes/deorbit-atk">September 26, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-09-26"></time>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/deorbit-atk" rel="bookmark">Episode 126: Deorbit ATK</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-09-26" pubdate=""><a class="entry-dateline-link" href="/show-notes/deorbit-atk">September 26, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-09-26"></time>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>Tianzhou 1 is done, and so is Orbital ATK.</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/deorbit-atk"></a></p>
+</div>
+<footer class="entry-footer clear">
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="59c9c36bd55b41529f977f20" data-like-count="0">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/59c9c36bd55b41529f977f20/1506471403956/" data-full-url="/show-notes/deorbit-atk" data-record-type="1" data-system-data-id="" data-title="Episode 126: Deorbit ATK"></span>
+</div>
+</footer>
+</article>
+<article class="entry h-entry hentry category-episode author-ben-etherington post-type-text article-index-2" data-item-id="59c05fb3be42d64477310f76" id="article-59c05fb3be42d64477310f76">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-09-19" pubdate=""><a class="entry-dateline-link" href="/show-notes/mars-rocks">September 19, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-09-19"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/mars-rocks" rel="bookmark">Episode 125: Mars Rocks</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-09-19" pubdate=""><a class="entry-dateline-link" href="/show-notes/mars-rocks">September 19, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-09-19"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>NASA outlines an exciting, laser-focused Mars sample return mission, and SpaceX released another photo of their flight suit.</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/mars-rocks"></a></p>
+</div>
+<footer class="entry-footer clear">
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="59c05fb3be42d64477310f76" data-like-count="1">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/59c05fb3be42d64477310f76/1505859895025/" data-full-url="/show-notes/mars-rocks" data-record-type="1" data-system-data-id="" data-title="Episode 125: Mars Rocks"></span>
+</div>
+</footer>
+</article>
+<article class="entry h-entry hentry category-episode author-david-fourman post-type-text article-index-3" data-item-id="59af255fbe42d61079796e6e" id="article-59af255fbe42d61079796e6e">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5439a3cee4b0c3b808d58b07" rel="author">David Fourman</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-09-05" pubdate=""><a class="entry-dateline-link" href="/show-notes/2017/9/5/episode-124-sat-in-a-cage">September 5, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-09-05"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/2017/9/5/episode-124-sat-in-a-cage" rel="bookmark">Episode 124: Sat in a Cage</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5439a3cee4b0c3b808d58b07" rel="author">David Fourman</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-09-05" pubdate=""><a class="entry-dateline-link" href="/show-notes/2017/9/5/episode-124-sat-in-a-cage">September 5, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-09-05"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>We discuss the recent loss of IRNSS 1H, trapped in its fairing, and we learn about a newly discovered flaw in Intelsat-33e's stationkeeping thrusters. Also we get a little more clarification of the Dragonrider suit.</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/2017/9/5/episode-124-sat-in-a-cage"></a></p>
+</div>
+<footer class="entry-footer clear">
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="59af255fbe42d61079796e6e" data-like-count="0">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/59af255fbe42d61079796e6e/1504652577608/" data-full-url="/show-notes/2017/9/5/episode-124-sat-in-a-cage" data-record-type="1" data-system-data-id="" data-title="Episode 124: Sat in a Cage"></span>
+</div>
+</footer>
+</article>
+<article class="entry h-entry hentry category-episode author-ben-etherington post-type-text article-index-4" data-item-id="59a444d56b8f5b8d4f403930" id="article-59a444d56b8f5b8d4f403930">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-08-29" pubdate=""><a class="entry-dateline-link" href="/show-notes/creamy">August 29, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-09-05"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/creamy" rel="bookmark">Episode 123: Mmmm, CREAMy</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-08-29" pubdate=""><a class="entry-dateline-link" href="/show-notes/creamy">August 29, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-09-05"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>Let's go shopping for pressure suits. Also, ISS gets CREAMy, and Orion and Orbital ATK both get fire-y!</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/creamy"></a></p>
+</div>
+<footer class="entry-footer clear">
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="59a444d56b8f5b8d4f403930" data-like-count="0">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/59a444d56b8f5b8d4f403930/1504650893882/" data-full-url="/show-notes/creamy" data-record-type="1" data-system-data-id="" data-title="Episode 123: Mmmm, CREAMy"></span>
+</div>
+</footer>
+</article>
+<article class="entry h-entry hentry category-episode author-ben-etherington post-type-text article-index-5" data-item-id="599b7e95cf81e027d2526486" id="article-599b7e95cf81e027d2526486">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-08-22" pubdate=""><a class="entry-dateline-link" href="/show-notes/leu">August 22, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-08-22"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/leu" rel="bookmark">Episode 122: Low-Enriched Uranium</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-08-22" pubdate=""><a class="entry-dateline-link" href="/show-notes/leu">August 22, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-08-22"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>Nuclear propulsion, a promise of new space suits, TDRS-M is healthy, the X-Prize will never be won, and another launchpad at KSC.</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/leu"></a></p>
+</div>
+<footer class="entry-footer clear">
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="599b7e95cf81e027d2526486" data-like-count="0">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/599b7e95cf81e027d2526486/1503419879593/" data-full-url="/show-notes/leu" data-record-type="1" data-system-data-id="" data-title="Episode 122: Low-Enriched Uranium"></span>
+</div>
+</footer>
+</article>
+<article class="entry h-entry hentry category-episode author-ben-etherington post-type-text article-index-6" data-item-id="59923419f14aa1b16657a2b0" id="article-59923419f14aa1b16657a2b0">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-08-15" pubdate=""><a class="entry-dateline-link" href="/show-notes/not-their-fault">August 15, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-08-15"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/not-their-fault" rel="bookmark">Episode 121: It's not their fault!</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-08-15" pubdate=""><a class="entry-dateline-link" href="/show-notes/not-their-fault">August 15, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-08-15"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>We learn more about the Rocket Lab's first flight failure, a minimalistic cubsat failure , and an H-IIA that was grounded (due to a failure)</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/not-their-fault"></a></p>
+</div>
+<footer class="entry-footer clear">
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="59923419f14aa1b16657a2b0" data-like-count="0">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/59923419f14aa1b16657a2b0/1502837302941/" data-full-url="/show-notes/not-their-fault" data-record-type="1" data-system-data-id="" data-title="Episode 121: It's not their fault!"></span>
+</div>
+</footer>
+</article>
+<article class="entry h-entry hentry category-episode tag-interview author-ben-etherington post-type-text article-index-7" data-item-id="5989296259cc68f043af65d4" id="article-5989296259cc68f043af65d4">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-08-08" pubdate=""><a class="entry-dateline-link" href="/show-notes/jason-seagram">August 8, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-08-18"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/jason-seagram" rel="bookmark">Episode 120: DOWNLINK--Jason Seagram</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-08-08" pubdate=""><a class="entry-dateline-link" href="/show-notes/jason-seagram">August 8, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-08-18"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>Jason Seagram works at CSA, and was a major part of the recent MBSU RnR.</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/jason-seagram"></a></p>
+</div>
+<footer class="entry-footer clear">
+<p class="entry-tags">
+        Tagged: <a href="/show-notes/tag/interview" rel="tag">interview</a>
+</p>
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="5989296259cc68f043af65d4" data-like-count="1">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/5989296259cc68f043af65d4/1503068035892/" data-full-url="/show-notes/jason-seagram" data-record-type="1" data-system-data-id="" data-title="Episode 120: DOWNLINK--Jason Seagram"></span>
+</div>
+</footer>
+</article>
+<article class="entry h-entry hentry category-episode author-ben-etherington post-type-text article-index-8" data-item-id="5980e298893fc03a61b40421" id="article-5980e298893fc03a61b40421">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-08-01" pubdate=""><a class="entry-dateline-link" href="/show-notes/myopia-runs-in-the-family">August 1, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-08-01"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/myopia-runs-in-the-family" rel="bookmark">Episode 119: Myopia Runs in the Family</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-08-01" pubdate=""><a class="entry-dateline-link" href="/show-notes/myopia-runs-in-the-family">August 1, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-08-01"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>There are two MPLMs in storage right now... and one of them might be headed to the moon! Also, another short-sighted US space telescope.</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/myopia-runs-in-the-family"></a></p>
+</div>
+<footer class="entry-footer clear">
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="5980e298893fc03a61b40421" data-like-count="0">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/5980e298893fc03a61b40421/1501621651444/" data-full-url="/show-notes/myopia-runs-in-the-family" data-record-type="1" data-system-data-id="" data-title="Episode 119: Myopia Runs in the Family"></span>
+</div>
+</footer>
+</article>
+<article class="entry h-entry hentry category-episode tag-interview author-ben-etherington post-type-text article-index-9" data-item-id="59778e75bf629a02b0a09cdb" id="article-59778e75bf629a02b0a09cdb">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-07-25" pubdate=""><a class="entry-dateline-link" href="/show-notes/louis-perna">July 25, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-07-26"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/louis-perna" rel="bookmark">Episode 118: DOWNLINK--Louis Perna</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-07-25" pubdate=""><a class="entry-dateline-link" href="/show-notes/louis-perna">July 25, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-07-26"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>Accion Systems is an MIT spin-off that's developing a new type of electric propulsion, and a very promising one! Also, we heard a bit of Mars news from Elon Musk.</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/louis-perna"></a></p>
+</div>
+<footer class="entry-footer clear">
+<p class="entry-tags">
+        Tagged: <a href="/show-notes/tag/interview" rel="tag">interview</a>
+</p>
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="59778e75bf629a02b0a09cdb" data-like-count="0">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/59778e75bf629a02b0a09cdb/1501100177543/" data-full-url="/show-notes/louis-perna" data-record-type="1" data-system-data-id="" data-title="Episode 118: DOWNLINK--Louis Perna"></span>
+</div>
+</footer>
+</article>
+<article class="entry h-entry hentry author-david-fourman post-type-text article-index-10" data-item-id="596e32d3d7bdce64e5418047" id="article-596e32d3d7bdce64e5418047">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5439a3cee4b0c3b808d58b07" rel="author">David Fourman</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-07-18" pubdate=""><a class="entry-dateline-link" href="/show-notes/qs-cs-and-cbs">July 18, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-07-18"></time>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/qs-cs-and-cbs" rel="bookmark">Episode 117: Brought to You By Questions, Comments and Correction Burns</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5439a3cee4b0c3b808d58b07" rel="author">David Fourman</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-07-18" pubdate=""><a class="entry-dateline-link" href="/show-notes/qs-cs-and-cbs">July 18, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-07-18"></time>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>TDRS-M got a little banged up during encapsulation, and Moon Express shows off a mockup! Also, lots of questions, comments and correction burns; let's all get smarter!</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/qs-cs-and-cbs"></a></p>
+</div>
+<footer class="entry-footer clear">
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="596e32d3d7bdce64e5418047" data-like-count="0">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/596e32d3d7bdce64e5418047/1500423265158/" data-full-url="/show-notes/qs-cs-and-cbs" data-record-type="1" data-system-data-id="" data-title="Episode 117: Brought to You By Questions, Comments and Correction Burns"></span>
+</div>
+</footer>
+</article>
+<article class="entry h-entry hentry category-episode author-ben-etherington post-type-text article-index-11" data-item-id="5964f8c3197aea9b7dd5ddee" id="article-5964f8c3197aea9b7dd5ddee">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-07-11" pubdate=""><a class="entry-dateline-link" href="/show-notes/xcor-is-no-mor">July 11, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-07-11"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/xcor-is-no-mor" rel="bookmark">Episode 116: Overperformance and underperformance</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-07-11" pubdate=""><a class="entry-dateline-link" href="/show-notes/xcor-is-no-mor">July 11, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-07-11"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>XCOR is no mor, F9 overperformed, Chinasat made up for an underperformance.</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/xcor-is-no-mor"></a></p>
+</div>
+<footer class="entry-footer clear">
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="5964f8c3197aea9b7dd5ddee" data-like-count="0">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/5964f8c3197aea9b7dd5ddee/1499809478213/" data-full-url="/show-notes/xcor-is-no-mor" data-record-type="1" data-system-data-id="" data-title="Episode 116: Overperformance and underperformance"></span>
+</div>
+</footer>
+</article>
+<article class="entry h-entry hentry category-episode tag-interview author-ben-etherington post-type-text article-index-12" data-item-id="595beeee29687ff67d162736" id="article-595beeee29687ff67d162736">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-07-04" pubdate=""><a class="entry-dateline-link" href="/show-notes/kam-bahrami">July 4, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-07-04"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/kam-bahrami" rel="bookmark">Episode 115: DOWNLINK--Kam Bahrami</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-07-04" pubdate=""><a class="entry-dateline-link" href="/show-notes/kam-bahrami">July 4, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-07-04"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>Kam Bahrami sits at the ROBO desk at ISS MCC. We have a quick discussion with him about robotics on Station and the Roll-out Solar Array experiment in particular.</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/kam-bahrami"></a></p>
+</div>
+<footer class="entry-footer clear">
+<p class="entry-tags">
+        Tagged: <a href="/show-notes/tag/interview" rel="tag">interview</a>
+</p>
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="595beeee29687ff67d162736" data-like-count="1">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/595beeee29687ff67d162736/1499206702955/" data-full-url="/show-notes/kam-bahrami" data-record-type="1" data-system-data-id="" data-title="Episode 115: DOWNLINK--Kam Bahrami"></span>
+</div>
+</footer>
+</article>
+<article class="entry h-entry hentry category-episode author-ben-etherington post-type-text article-index-13" data-item-id="5951d3871e5b6cb1b7ed8fab" id="article-5951d3871e5b6cb1b7ed8fab">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-06-27" pubdate=""><a class="entry-dateline-link" href="/show-notes/baseball-reference">June 27, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-06-27"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/baseball-reference" rel="bookmark">Episode 114: Baseball Reference</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-06-27" pubdate=""><a class="entry-dateline-link" href="/show-notes/baseball-reference">June 27, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-06-27"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>ESA gears up for Prometheus and SpaceX busies itself getting payloads into space.</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/baseball-reference"></a></p>
+</div>
+<footer class="entry-footer clear">
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="5951d3871e5b6cb1b7ed8fab" data-like-count="0">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/5951d3871e5b6cb1b7ed8fab/1498606057092/" data-full-url="/show-notes/baseball-reference" data-record-type="1" data-system-data-id="" data-title="Episode 114: Baseball Reference"></span>
+</div>
+</footer>
+</article>
+<article class="entry h-entry hentry category-episode author-ben-etherington post-type-text article-index-14" data-item-id="594897eb37c58181e133f208" id="article-594897eb37c58181e133f208">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-06-20" pubdate=""><a class="entry-dateline-link" href="/show-notes/the-crowd-speaks">June 20, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-06-20"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/the-crowd-speaks" rel="bookmark">Episode 113: The Crowd Speaks</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-06-20" pubdate=""><a class="entry-dateline-link" href="/show-notes/the-crowd-speaks">June 20, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-06-20"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>Orion gets an abort motor test, ROSA gets a deployment test and Pirs stays put.</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/the-crowd-speaks"></a></p>
+</div>
+<footer class="entry-footer clear">
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="594897eb37c58181e133f208" data-like-count="1">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/594897eb37c58181e133f208/1498001867954/" data-full-url="/show-notes/the-crowd-speaks" data-record-type="1" data-system-data-id="" data-title="Episode 113: The Crowd Speaks"></span>
+</div>
+</footer>
+</article>
+<article class="entry h-entry hentry category-episode tag-interview author-ben-etherington post-type-text article-index-15" data-item-id="593f3cffd2b857a8ca7c8867" id="article-593f3cffd2b857a8ca7c8867">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-06-13" pubdate=""><a class="entry-dateline-link" href="/show-notes/sharad-bhaskaran">June 13, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-06-14"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/sharad-bhaskaran" rel="bookmark">Episode 112: DOWNLINK--Sharad Bhaskaran</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-06-13" pubdate=""><a class="entry-dateline-link" href="/show-notes/sharad-bhaskaran">June 13, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-06-14"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>Sharad Bhaskaran is Astrobotic's Mission Director, which means he's going to be responsible for sending payloads to the surface of the Moon. Also: lots of SpaceX speculation and two fantastic correction burns, one from Ben Honey of Johnson Space Center!</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/sharad-bhaskaran"></a></p>
+</div>
+<footer class="entry-footer clear">
+<p class="entry-tags">
+        Tagged: <a href="/show-notes/tag/interview" rel="tag">interview</a>
+</p>
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="593f3cffd2b857a8ca7c8867" data-like-count="3">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/593f3cffd2b857a8ca7c8867/1497488341013/" data-full-url="/show-notes/sharad-bhaskaran" data-record-type="1" data-system-data-id="" data-title="Episode 112: DOWNLINK--Sharad Bhaskaran"></span>
+</div>
+</footer>
+</article>
+<article class="entry h-entry hentry category-episode author-ben-etherington post-type-text article-index-16" data-item-id="5935ed5037c581ebe8b8997c" id="article-5935ed5037c581ebe8b8997c">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-06-06" pubdate=""><a class="entry-dateline-link" href="/show-notes/unexpected-departure">June 6, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-06-06"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/unexpected-departure" rel="bookmark">Episode 111: Unexpected Departure</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-06-06" pubdate=""><a class="entry-dateline-link" href="/show-notes/unexpected-departure">June 6, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-06-06"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>An unexpected ISS departure, the Space Foursquare Ball is halfway to the finish line, Stratolaunch stretches its legs, and SpaceX has a ticket price in mind for Red Dragon.</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/unexpected-departure"></a></p>
+</div>
+<footer class="entry-footer clear">
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="5935ed5037c581ebe8b8997c" data-like-count="0">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/5935ed5037c581ebe8b8997c/1496786565776/" data-full-url="/show-notes/unexpected-departure" data-record-type="1" data-system-data-id="" data-title="Episode 111: Unexpected Departure"></span>
+</div>
+</footer>
+</article>
+<article class="entry h-entry hentry category-episode author-ben-etherington post-type-text article-index-17" data-item-id="592d97e146c3c489d71570f4" id="article-592d97e146c3c489d71570f4">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-05-30" pubdate=""><a class="entry-dateline-link" href="/show-notes/tap-on-the-shoulder">May 30, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-06-05"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/tap-on-the-shoulder" rel="bookmark">Episode 110: A Tap on the Shoulder</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-05-30" pubdate=""><a class="entry-dateline-link" href="/show-notes/tap-on-the-shoulder">May 30, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-06-05"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>Successful failures all around! BE-4 has an explosion, Rocketlab reaches space, Schiaparelli gets investigated and LRO gets tapped on the shoulder.</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/tap-on-the-shoulder"></a></p>
+</div>
+<footer class="entry-footer clear">
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="592d97e146c3c489d71570f4" data-like-count="0">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/592d97e146c3c489d71570f4/1496706650762/" data-full-url="/show-notes/tap-on-the-shoulder" data-record-type="1" data-system-data-id="" data-title="Episode 110: A Tap on the Shoulder"></span>
+</div>
+</footer>
+</article>
+<article class="entry h-entry hentry author-ben-etherington post-type-text article-index-18" data-item-id="59238471f5e231af38720e5f" id="article-59238471f5e231af38720e5f">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-05-23" pubdate=""><a class="entry-dateline-link" href="/show-notes/notionfarm-ep1">May 23, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-05-23"></time>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/notionfarm-ep1" rel="bookmark">Guest show: Notion.farm Episode 1</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-05-23" pubdate=""><a class="entry-dateline-link" href="/show-notes/notionfarm-ep1">May 23, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-05-23"></time>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>Since nothing much happened in the news this week, we decided to take a break and instead bring you an episode from a new podcast, hosted by Ben Etherington and Chris Radcliff. Find more episodes at <a href="https://notion.farm">Notion.farm</a>.</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/notionfarm-ep1"></a></p>
+</div>
+<footer class="entry-footer clear">
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="59238471f5e231af38720e5f" data-like-count="1">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/59238471f5e231af38720e5f/1495565446846/" data-full-url="/show-notes/notionfarm-ep1" data-record-type="1" data-system-data-id="" data-title="Guest show: Notion.farm Episode 1"></span>
+</div>
+</footer>
+</article>
+<article class="entry h-entry hentry category-episode author-ben-etherington post-type-text article-index-19" data-item-id="591a7992d1758e39ce50a22d" id="article-591a7992d1758e39ce50a22d">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-05-16" pubdate=""><a class="entry-dateline-link" href="/show-notes/2017/5/16/episode-109-dropped-dome">May 16, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-05-16"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/2017/5/16/episode-109-dropped-dome" rel="bookmark">Episode 109: Dropped Dome</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-05-16" pubdate=""><a class="entry-dateline-link" href="/show-notes/2017/5/16/episode-109-dropped-dome">May 16, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-05-16"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>Both NASA and Masten damaged some very expensive equipment this week.</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/2017/5/16/episode-109-dropped-dome"></a></p>
+</div>
+<footer class="entry-footer clear">
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="591a7992d1758e39ce50a22d" data-like-count="0">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/591a7992d1758e39ce50a22d/1494961513391/" data-full-url="/show-notes/2017/5/16/episode-109-dropped-dome" data-record-type="1" data-system-data-id="" data-title="Episode 109: Dropped Dome"></span>
+</div>
+</footer>
+</article>
+<article class="entry h-entry hentry category-episode tag-field-trip author-ben-etherington post-type-text article-index-20" data-item-id="5910a175b3db2bcaf5eb10f0" id="article-5910a175b3db2bcaf5eb10f0">
+<header class="entry-header">
+<div class="meta-above-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-05-09" pubdate=""><a class="entry-dateline-link" href="/show-notes/maggie">May 9, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-05-09"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+<h1 class="entry-title p-name" data-content-field="title">
+<a class="u-url" href="/show-notes/maggie" rel="bookmark">Episode 108: Mars Automated Giant Gizmo for Integrated Engineering</a>
+</h1>
+<div class="meta-below-title">
+<div class="entry-byline">
+<span class="entry-author"><a class="p-author author entry-byline-link" href="/show-notes?author=5329dc8be4b07cecfd8f8a79" rel="author">Ben Etherington</a></span>
+</div>
+<div class="entry-dateline">
+<time class="dt-published published entry-date" datetime="2017-05-09" pubdate=""><a class="entry-dateline-link" href="/show-notes/maggie">May 9, 2017</a></time>
+<time class="dt-updated updated" datetime="2017-05-09"></time>
+</div>
+<div class="entry-morefrom">
+<span class="entry-category"><a class="entry-morefrom-link" href="/show-notes/category/Episode" rel="tag">Episode</a></span>
+</div>
+</div>
+</header>
+<div class="entry-content">
+<div class="p-summary"><p>Ben talks for too long about his trip to JPL. Vector flies a rocket, ARCA shows off a a crazy rocket, NASA wants cubesats with lasers IN SPACE, and X-37B ends its streak.</p></div>
+<p class="entry-more-link"><a data-read-more="Read More" href="/show-notes/maggie"></a></p>
+</div>
+<footer class="entry-footer clear">
+<p class="entry-tags">
+        Tagged: <a href="/show-notes/tag/Field+trip" rel="tag">Field trip</a>
+</p>
+<div class="entry-actions">
+<span class="sqs-simple-like" data-item-id="5910a175b3db2bcaf5eb10f0" data-like-count="2">
+<span class="like-icon"></span>
+<span class="like-count"></span>
+</span>
+<span class="squarespace-social-buttons inline-style" data-asset-url="https://static1.squarespace.com/static/5439a3d0e4b0dedc218f23b9/5443f8fce4b0566007c13332/5910a175b3db2bcaf5eb10f0/1494366582519/" data-full-url="/show-notes/maggie" data-record-type="1" data-system-data-id="" data-title="Episode 108: Mars Automated Giant Gizmo for Integrated Engineering"></span>
+</div>
+</footer>
+</article>
+<nav class="pagination clear" data-paginate="scroll">
+<div class="newer"><a href="/show-notes?offset=1506471403242&amp;reversePaginate=true" rel="prev"><span class="prev-label">Newer Posts</span></a></div><!-- comment the linebreak between these two elements because science
+        --><div class="older"><a href="/show-notes?offset=1494366582341" rel="next"><span class="next-label">Older Posts</span></a></div>
+</nav>
+</div>
+</div><!--
+--><aside id="rightSidebar" role="complementary">
+<div class="sqs-layout sqs-grid-12 columns-12 open-block-field empty" data-layout-label="Blog Sidebar Content" data-type="block-field" id="blogBlocks-5443f8fce4b0566007c13332"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+</aside>
+</main>
+<div id="preFooter">
+<div class="pre-footer-inner">
+<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Pre-Footer Content" data-type="block-field" data-updated-on="1454959528617" id="preFooterBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_6_1454958720825_6240"><div class="sqs-block-content"><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" style="border-width:0"/></a></div></div></div><div class="col sqs-col-10 span-10"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_6_1454958720825_7893"><div class="sqs-block-content"><span href="http://purl.org/dc/dcmitype/Sound" property="dct:title" rel="dct:type" xmlns:dct="http://purl.org/dc/terms/">The Orbital Mechanics Podcast</span> by <a href="theorbitalmechanics.com" property="cc:attributionName" rel="cc:attributionURL" xmlns:cc="http://creativecommons.org/ns#">David Fourman and Ben Etherington</a> is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</div></div></div></div></div></div></div>
+</div>
+</div>
+<footer id="footer" role="contentinfo">
+<div class="footer-inner">
+<div class="nav-wrapper back-to-top-nav"><nav><div class="back-to-top"><a href="#header">Back to Top</a></div></nav></div>
+<div class="nav-wrapper" data-content-field="navigation-secondaryNav" id="secondaryNavWrapper">
+<nav data-content-field="navigation-secondaryNav" id="secondaryNavigation">
+<div class="external">
+<a href="http://www.reddit.com/r/OrbitalPodcast">
+<span>/r/OrbitalPodcast</span>
+</a>
+</div>
+<div class="external">
+<a href="http://twitter.com/orbitalpodcast">
+<span>@OrbitalPodcast</span>
+</a>
+</div>
+</nav>
+</div>
+<div id="siteInfo"><a class="site-email" href="mailto:info@theorbitalmechanics.com"><span>info@theorbitalmechanics.com</span></a></div>
+<div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1466376751693" id="footerBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+</div>
+</footer>
+</div>
+<script src="https://static1.squarespace.com/static/ta/52a74d9ae4b0253945d2aee9/1033/scripts/site-bundle.js" type="text/javascript"></script>
+<script data-sqs-type="imageloader-bootstrapper" type="text/javascript">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script>
+</body>
+</html>
