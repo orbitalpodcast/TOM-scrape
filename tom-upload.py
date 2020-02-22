@@ -40,11 +40,11 @@ def upload_episode(ep_number, ep):
                               files={'file': f},
                               headers=config.headers_without_content)
 
-def with_bot_token(payload):
+def with_bot_token(payload=None):
   # loads bot_token into the payload.
-  if payload is None
+  if payload is None:
     payload = {}
-  return {**payload, {'bot_token':secrets.bot_token}}
+  return {**payload, **{'bot_token':secrets.bot_token}}
 
 def log_request_response(ep_number, payload, response):
   # some data is spit out into the command line, but we also can make detailed logs
@@ -62,5 +62,5 @@ def log_request_response(ep_number, payload, response):
 with open(config.scraped) as f:
   episodes_dict = json.load(f)
 # if you want to test with only a few objects in the JSON, try for/in sorted(episodes_dict.items())[0:2]:
-for ep_number, episode in episodes_dict:
+for ep_number, episode in episodes_dict.items():
   upload_episode(ep_number, episode)
