@@ -28,6 +28,7 @@ def upload_episode(ep_number, ep):
       image_filenames.append(file)
   # upload each image and its caption
   for index, image_filename in enumerate(image_filenames):
+    print(image_filename)
     with open(config.files+ep_number+'/'+image_filename, 'rb') as f:
       response = requests.request("patch", config.image_url+ep_number,
                                 data=with_bot_token({'caption':ep['images'][index]['caption']}),
@@ -35,6 +36,7 @@ def upload_episode(ep_number, ep):
                                 headers=config.headers_without_content)
   # UPLOAD AUDIO
   with open(f'{config.files}{ep_number}/Episode-{ep_number}.mp3', 'rb') as f:
+    print(f'Episode-{ep_number}.mp3')
     response = requests.request("patch", config.audio_url+ep_number,
                               data=with_bot_token(),
                               files={'file': f},
